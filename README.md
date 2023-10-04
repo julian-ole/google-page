@@ -1,2 +1,4 @@
 # google-page
-The first pracrice layout project.
+The first practice layout project.
+The goal is to layout the google.com page how it is. 
+
